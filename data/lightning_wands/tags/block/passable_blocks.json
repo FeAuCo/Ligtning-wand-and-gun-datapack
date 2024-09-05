@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "air",
+        "tripwire",
+        "torch",
+        "soul_torch",
+        "redstone_torch",
+        "redstone_wire"
+    ]
+}

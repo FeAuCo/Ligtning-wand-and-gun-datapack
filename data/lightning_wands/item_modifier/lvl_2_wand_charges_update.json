@@ -1,0 +1,26 @@
+[
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      [
+        {
+          "text": "Зарядов: ",
+          "color": "blue"
+        },
+        {
+          "score": {
+            "name": "*charges",
+            "objective": "lvl_2_wand_load"
+          },
+          "color": "blue"
+        },
+        {
+          "text": " / 10",
+          "color": "blue"
+        }
+      ]
+    ],
+    "mode": "replace_all"
+  }
+]

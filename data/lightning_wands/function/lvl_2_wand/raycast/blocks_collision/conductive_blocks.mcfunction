@@ -1,0 +1,2 @@
+execute align xyz positioned ~0.5 ~ ~0.5 run playsound minecraft:block.beacon.power_select master @a ~ ~ ~ 1 2
+execute align xyz positioned ~0.5 ~ ~0.5 positioned ~-1.5 ~-1 ~-1.5 as @e[type=!#lightning_wands:passable_entities,dx=2,dy=2,dz=2] run damage @s 12 minecraft:lightning_bolt by @e[tag=lvl_2_wand_raycaster,limit=1]

@@ -1,0 +1,10 @@
+[
+    {
+      "function": "minecraft:set_count",
+      "count": {
+        "type": "minecraft:score",
+        "target": "this",
+        "score": "lvl_2_wand_load"
+      }
+    }
+]

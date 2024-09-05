@@ -1,0 +1,40 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "#@#",
+      "1&1",
+      "202"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:sea_lantern"
+      },
+      "@": {
+        "item": "minecraft:nether_star"
+      },
+      "&": {
+        "item": "minecraft:conduit"
+      },
+      "0": {
+        "item": "minecraft:breeze_rod"
+      },
+      "1": {
+        "item": "minecraft:packed_ice"
+      },
+      "2": {
+        "item": "minecraft:gold_ingot"
+      }
+    },
+    "result": {
+      "id": "minecraft:warped_fungus_on_a_stick",
+      "count": 1,
+      "components": {
+        "minecraft:item_name": "{\"text\":\"Посох молний <1>\",\"color\":\"aqua\"}",
+        "minecraft:custom_data": {
+          "wand_lvl": 1
+        },
+        "minecraft:max_stack_size": 1,
+        "minecraft:custom_model_data":1
+      }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "replace": false,
+    "values": [
+        "#arrows",
+        "boat",
+        "painting",
+        "#deflects_projectiles",
+        "item",
+        "marker",
+        "item_display",
+        "item_frame",
+        "glow_item_frame",
+        "#impact_projectiles",
+        "#redirectable_projectile",
+        "experience_bottle",
+        "experience_orb",
+        "potion",
+        "lightning_bolt",
+        "fishing_bobber",
+        "armor_stand"
+    ]
+}

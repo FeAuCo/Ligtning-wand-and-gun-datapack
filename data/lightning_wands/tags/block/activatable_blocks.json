@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "redstone_lamp",
+        "copper_bulb",
+        "weathered_copper_bulb",
+        "oxidized_copper_bulb",
+        "exposed_copper_bulb",
+        "tnt"
+    ]
+}

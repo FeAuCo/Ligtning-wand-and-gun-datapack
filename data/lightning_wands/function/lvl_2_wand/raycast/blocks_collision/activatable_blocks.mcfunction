@@ -1,0 +1,11 @@
+execute if block ~ ~ ~ tnt run summon tnt ~ ~ ~
+execute if block ~ ~ ~ tnt run setblock ~ ~ ~ air
+execute if block ~ ~ ~ redstone_lamp run setblock ~ ~ ~ redstone_lamp[lit=true]
+execute if block ~ ~ ~ copper_bulb[powered=false] run setblock ~ ~ ~ copper_bulb[powered=true]
+execute if block ~ ~ ~ copper_bulb[powered=true] run setblock ~ ~ ~ copper_bulb[powered=false]
+execute if block ~ ~ ~ exposed_copper_bulb[powered=false] run setblock ~ ~ ~ exposed_copper_bulb[powered=true]
+execute if block ~ ~ ~ exposed_copper_bulb[powered=true] run setblock ~ ~ ~ exposed_copper_bulb[powered=false]
+execute if block ~ ~ ~ weathered_copper_bulb[powered=false] run setblock ~ ~ ~ weathered_copper_bulb[powered=true]
+execute if block ~ ~ ~ weathered_copper_bulb[powered=true] run setblock ~ ~ ~ weathered_copper_bulb[powered=false]
+execute if block ~ ~ ~ oxidized_copper_bulb[powered=false] run setblock ~ ~ ~ oxidized_copper_bulb[powered=true]
+execute if block ~ ~ ~ oxidized_copper_bulb[powered=true] run setblock ~ ~ ~ oxidized_copper_bulb[powered=false]
